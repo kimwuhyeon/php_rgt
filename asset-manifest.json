@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/project_rgt/static/css/main.0354efa5.css",
+    "main.js": "/project_rgt/static/js/main.4a268036.js",
+    "static/js/453.685cda72.chunk.js": "/project_rgt/static/js/453.685cda72.chunk.js",
+    "index.html": "/project_rgt/index.html",
+    "main.0354efa5.css.map": "/project_rgt/static/css/main.0354efa5.css.map",
+    "main.4a268036.js.map": "/project_rgt/static/js/main.4a268036.js.map",
+    "453.685cda72.chunk.js.map": "/project_rgt/static/js/453.685cda72.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0354efa5.css",
+    "static/js/main.4a268036.js"
+  ]
+}
